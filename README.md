@@ -4,6 +4,6 @@ This project explores synthetic data augmentation and its impact on trading stra
 
 ### Notebooks
 
-- `notebook_0_data_prep.ipynb` – Data cleaning and preprocessing.
-- `notebook_1_data_aug_regimes.ipynb` – Regime detection and synthetic data generation using VAEs.
-- `notebook_2_trading_risk.ipynb` – Strategy backtesting, Sharpe ratio analysis, and 1-month VaR forecasting.
+- `notebook_0.ipynb` – Data cleaning and preprocessing.
+- `notebook_1.ipynb` – Regime detection and synthetic data generation using VAEs.
+- `notebook_2.ipynb` – Strategy backtesting, Sharpe ratio analysis, and 1-month VaR forecasting.
